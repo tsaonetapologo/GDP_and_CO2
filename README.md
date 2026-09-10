@@ -3,5 +3,4 @@ This project is about GDP and CO2 analysis.
 
 This is for PDS course.
 
-It is used to determine the relationship between GDP and CO2.
-
+Let us test the new branch.
